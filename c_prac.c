@@ -1,7 +1,5 @@
 /*
 Ayodele, David
-INFSCI 2620
-10/21/19
 */
 
 #include <stdio.h>
